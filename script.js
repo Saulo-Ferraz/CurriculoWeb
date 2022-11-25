@@ -16,7 +16,6 @@ const lerSkills = async() => {
         listaSkills.innerHTML = "";
         for (const Skill of results) {
             const descricao = Skill.get("descricao");
-            const feita = Skill.get("feita");
             listaSkills.innerHTML += `${descricao}<br>`;
         }
     } catch (error) {
