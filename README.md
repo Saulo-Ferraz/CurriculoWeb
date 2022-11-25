@@ -1,1 +1,1 @@
-Aqui terá o link do Vercel
+https://curriculo-web-psi.vercel.app
