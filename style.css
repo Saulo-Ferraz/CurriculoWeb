@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+
+body {
+    background-color: gray;
+}
+.sobreMim {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+.skills{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    font-size: 15px;
+}
+.formacao {
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    font-size: 15px;
+}
+.contatos {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
